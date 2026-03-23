@@ -1,0 +1,4 @@
+C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/speech_app.dir
+C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/speechapp.dir
+C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/ZERO_CHECK.dir

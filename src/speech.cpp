@@ -1,7 +1,8 @@
-#include "speech.h"
-speechmanager::speechmanager()  //不能加分号
+﻿#include "speech.h"
+#include <iostream>
+using namespace std;
+speechmanager::speechmanager() // 不能加分号
 {
-
 }
 void speechmanager::show_menu()
 {
@@ -19,8 +20,6 @@ void speechmanager::exit_system()
     system("pause");
 }
 
-
 speechmanager::~speechmanager()
 {
-
 }
