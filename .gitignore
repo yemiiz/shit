@@ -1,0 +1,21 @@
+# CMake 构建目录
+build/
+lib/
+
+# 可执行文件与调试文件
+*.exe
+*.pdb
+*.ilk
+
+# Visual Studio 临时文件
+*.vcxproj
+*.vcxproj.filters
+*.sln
+.vs/
+
+# VS Code 配置
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db

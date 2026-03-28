@@ -12,6 +12,7 @@ public:
     std::vector<int> final_speaker;
     //前三名选手
     std::vector<int> win_speaker;
+    //选手编号和选手对象的映射
     std::map<int, speaker> m_speaker;
     //初始化数据
     int m_index;
