@@ -2,6 +2,7 @@
 #include "speechmanager.h"
 #include "speaker.h"
 using namespace std;
+
 int main()
 {
     // 设置演讲管理类

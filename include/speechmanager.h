@@ -23,6 +23,8 @@ public:
     void exit_system();
     //创建选手
     void create_speaker();
+    void start_speech();
+    void speech_draw();
     // 析构函数
     ~speechmanager();
 };

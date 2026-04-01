@@ -38,6 +38,7 @@ events:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -52,9 +53,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -71,7 +76,7 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.3.0-release-26070-10+3972042b7
-      鐢熸垚鍚姩鏃堕棿涓?2026/3/27 20:22:28銆?
+      鐢熸垚鍚姩鏃堕棿涓?2026/4/1 23:52:16銆?
       
       鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\4.3.0\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
@@ -100,7 +105,7 @@ events:
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:02.79
+      宸茬敤鏃堕棿 00:00:02.30
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -136,6 +141,7 @@ events:
       - "C:/Users/HP/.vscode/extensions/vadimcn.vscode-lldb-1.12.1/bin/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -150,9 +156,13 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "D:/Qt/5.10.0/mingw53_32/bin/"
       - "D:/Qt/Tools/mingw530_32/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/"
+      - "C:/Users/HP/AppData/Roaming/npm/"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/"
     searched_directories:
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.com"
     found: "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.exe"
@@ -161,6 +171,7 @@ events:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -175,9 +186,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -204,6 +219,7 @@ events:
       - "C:/Users/HP/.vscode/extensions/vadimcn.vscode-lldb-1.12.1/bin/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -218,9 +234,13 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "D:/Qt/5.10.0/mingw53_32/bin/"
       - "D:/Qt/Tools/mingw530_32/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/"
+      - "C:/Users/HP/AppData/Roaming/npm/"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/"
     searched_directories:
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.com"
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.exe"
@@ -234,6 +254,9 @@ events:
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link.com"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link.exe"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/lld-link.com"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/lld-link.exe"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/lld-link"
@@ -276,6 +299,12 @@ events:
       - "D:/Qt/Tools/mingw530_32/bin/lld-link.com"
       - "D:/Qt/Tools/mingw530_32/bin/lld-link.exe"
       - "D:/Qt/Tools/mingw530_32/bin/lld-link"
+      - "C:/Program Files/nodejs/lld-link.com"
+      - "C:/Program Files/nodejs/lld-link.exe"
+      - "C:/Program Files/nodejs/lld-link"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/lld-link"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/lld-link.com"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/lld-link"
@@ -285,12 +314,19 @@ events:
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/lld-link.com"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/lld-link.exe"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/lld-link"
+      - "C:/Users/HP/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/HP/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/HP/AppData/Roaming/npm/lld-link"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/lld-link.com"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/lld-link.exe"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/lld-link"
     found: false
     search_context:
       ENV{PATH}:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -305,9 +341,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -332,6 +372,7 @@ events:
       - "C:/Users/HP/.vscode/extensions/vadimcn.vscode-lldb-1.12.1/bin/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -346,9 +387,13 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "D:/Qt/5.10.0/mingw53_32/bin/"
       - "D:/Qt/Tools/mingw530_32/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/"
+      - "C:/Users/HP/AppData/Roaming/npm/"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/"
     searched_directories:
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.com"
     found: "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.exe"
@@ -357,6 +402,7 @@ events:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -371,9 +417,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -398,6 +448,7 @@ events:
       - "C:/Users/HP/.vscode/extensions/vadimcn.vscode-lldb-1.12.1/bin/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -412,9 +463,13 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "D:/Qt/5.10.0/mingw53_32/bin/"
       - "D:/Qt/Tools/mingw530_32/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/"
+      - "C:/Users/HP/AppData/Roaming/npm/"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/"
     searched_directories:
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt.com"
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt.exe"
@@ -428,6 +483,9 @@ events:
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/mt.com"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/mt.exe"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/mt"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/mt.com"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/mt.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/mt"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/mt.com"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/mt.exe"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/mt"
@@ -470,6 +528,12 @@ events:
       - "D:/Qt/Tools/mingw530_32/bin/mt.com"
       - "D:/Qt/Tools/mingw530_32/bin/mt.exe"
       - "D:/Qt/Tools/mingw530_32/bin/mt"
+      - "C:/Program Files/nodejs/mt.com"
+      - "C:/Program Files/nodejs/mt.exe"
+      - "C:/Program Files/nodejs/mt"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/mt.com"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/mt.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/mt"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/mt.com"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/mt.exe"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/mt"
@@ -479,12 +543,19 @@ events:
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/mt.com"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/mt.exe"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/mt"
+      - "C:/Users/HP/AppData/Roaming/npm/mt.com"
+      - "C:/Users/HP/AppData/Roaming/npm/mt.exe"
+      - "C:/Users/HP/AppData/Roaming/npm/mt"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/mt.com"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/mt.exe"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/mt"
     found: false
     search_context:
       ENV{PATH}:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -499,9 +570,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -526,6 +601,7 @@ events:
       - "C:/Users/HP/.vscode/extensions/vadimcn.vscode-lldb-1.12.1/bin/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -540,9 +616,13 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "D:/Qt/5.10.0/mingw53_32/bin/"
       - "D:/Qt/Tools/mingw530_32/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/"
+      - "C:/Users/HP/AppData/Roaming/npm/"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/"
     searched_directories:
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lib.com"
     found: "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lib.exe"
@@ -551,6 +631,7 @@ events:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -565,9 +646,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -598,6 +683,7 @@ events:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -612,9 +698,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "message-v1"
     backtrace:
@@ -631,7 +721,7 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.3.0-release-26070-10+3972042b7
-      鐢熸垚鍚姩鏃堕棿涓?2026/3/27 20:22:31銆?
+      鐢熸垚鍚姩鏃堕棿涓?2026/4/1 23:52:18銆?
       
       鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\4.3.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
@@ -660,7 +750,7 @@ events:
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.63
+      宸茬敤鏃堕棿 00:00:00.97
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -696,6 +786,7 @@ events:
       - "C:/Users/HP/.vscode/extensions/vadimcn.vscode-lldb-1.12.1/bin/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -710,9 +801,13 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "D:/Qt/5.10.0/mingw53_32/bin/"
       - "D:/Qt/Tools/mingw530_32/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/"
+      - "C:/Users/HP/AppData/Roaming/npm/"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/"
     searched_directories:
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.com"
       - "D:/Visual Studio/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.exe"
@@ -726,6 +821,9 @@ events:
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link.com"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link.exe"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/lld-link"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/lld-link.com"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/lld-link.exe"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/lld-link"
@@ -768,6 +866,12 @@ events:
       - "D:/Qt/Tools/mingw530_32/bin/lld-link.com"
       - "D:/Qt/Tools/mingw530_32/bin/lld-link.exe"
       - "D:/Qt/Tools/mingw530_32/bin/lld-link"
+      - "C:/Program Files/nodejs/lld-link.com"
+      - "C:/Program Files/nodejs/lld-link.exe"
+      - "C:/Program Files/nodejs/lld-link"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/lld-link"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/lld-link.com"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/lld-link"
@@ -777,12 +881,19 @@ events:
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/lld-link.com"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/lld-link.exe"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/lld-link"
+      - "C:/Users/HP/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/HP/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/HP/AppData/Roaming/npm/lld-link"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/lld-link.com"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/lld-link.exe"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/lld-link"
     found: false
     search_context:
       ENV{PATH}:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -797,9 +908,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
   -
     kind: "find-v1"
     backtrace:
@@ -826,6 +941,7 @@ events:
       - "C:/Users/HP/.vscode/extensions/vadimcn.vscode-lldb-1.12.1/bin/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -840,9 +956,13 @@ events:
       - "C:/Program Files/Git/cmd/"
       - "D:/Qt/5.10.0/mingw53_32/bin/"
       - "D:/Qt/Tools/mingw530_32/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/"
+      - "C:/Users/HP/AppData/Roaming/npm/"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -865,6 +985,9 @@ events:
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/rc.com"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/rc.exe"
       - "C:/Users/HP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/rc"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/rc.com"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/rc.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Microsoft VS Code/rc"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/rc.com"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/rc.exe"
       - "C:/Program Files (x86)/VMware/VMware Workstation/bin/rc"
@@ -907,6 +1030,12 @@ events:
       - "D:/Qt/Tools/mingw530_32/bin/rc.com"
       - "D:/Qt/Tools/mingw530_32/bin/rc.exe"
       - "D:/Qt/Tools/mingw530_32/bin/rc"
+      - "C:/Program Files/nodejs/rc.com"
+      - "C:/Program Files/nodejs/rc.exe"
+      - "C:/Program Files/nodejs/rc"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/rc.com"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/rc.exe"
+      - "C:/Users/HP/AppData/Local/Programs/Python/Launcher/rc"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/rc.com"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/rc.exe"
       - "C:/Users/HP/AppData/Local/Microsoft/WindowsApps/rc"
@@ -916,6 +1045,12 @@ events:
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/rc.com"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/rc.exe"
       - "C:/Users/HP/AppData/Local/PowerToys/DSCModules/rc"
+      - "C:/Users/HP/AppData/Roaming/npm/rc.com"
+      - "C:/Users/HP/AppData/Roaming/npm/rc.exe"
+      - "C:/Users/HP/AppData/Roaming/npm/rc"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/rc.com"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/rc.exe"
+      - "C:/Users/HP/PyCharm Community Edition 2025.1.2/bin/rc"
       - "C:/Program Files/bin/rc.com"
       - "C:/Program Files/bin/rc.exe"
       - "C:/Program Files/bin/rc"
@@ -958,6 +1093,7 @@ events:
         - "c:\\Users\\HP\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\HP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\windows\\system32"
         - "C:\\windows"
@@ -972,9 +1108,13 @@ events:
         - "C:\\Program Files\\Git\\cmd"
         - "D:\\Qt\\5.10.0\\mingw53_32\\bin"
         - "D:\\Qt\\Tools\\mingw530_32\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Launcher\\"
         - "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\HP\\AppData\\Local\\PowerToys\\DSCModules\\"
+        - "C:\\Users\\HP\\AppData\\Roaming\\npm"
+        - "C:\\Users\\HP\\PyCharm Community Edition 2025.1.2\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/speech_app"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -990,8 +1130,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-3nesf0"
-      binary: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-3nesf0"
+      source: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-p2rgab"
+      binary: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-p2rgab"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
@@ -1001,39 +1141,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-3nesf0'
+        Change Dir: 'C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-p2rgab'
         
-        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_45cd3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_627c2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.3.0-release-26070-10+3972042b7
-        鐢熸垚鍚姩鏃堕棿涓?2026/3/27 20:22:32銆?
+        鐢熸垚鍚姩鏃堕棿涓?2026/4/1 23:52:20銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nesf0\\cmTC_45cd3.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p2rgab\\cmTC_627c2.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nesf0\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_45cd3.dir\\Debug\\cmTC_45cd3.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p2rgab\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_627c2.dir\\Debug\\cmTC_627c2.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_45cd3.dir\\Debug\\cmTC_45cd3.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_45cd3.dir\\Debug\\cmTC_45cd3.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_627c2.dir\\Debug\\cmTC_627c2.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_627c2.dir\\Debug\\cmTC_627c2.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_45cd3.dir\\Debug\\\\" /Fd"cmTC_45cd3.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_627c2.dir\\Debug\\\\" /Fd"cmTC_627c2.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.50.35725 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_45cd3.dir\\Debug\\\\" /Fd"cmTC_45cd3.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_627c2.dir\\Debug\\\\" /Fd"cmTC_627c2.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nesf0\\Debug\\cmTC_45cd3.exe" /INCREMENTAL /ILK:"cmTC_45cd3.dir\\Debug\\cmTC_45cd3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-3nesf0/Debug/cmTC_45cd3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-3nesf0/Debug/cmTC_45cd3.lib" /MACHINE:X64  /machine:x64 cmTC_45cd3.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_45cd3.vcxproj -> C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nesf0\\Debug\\cmTC_45cd3.exe
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p2rgab\\Debug\\cmTC_627c2.exe" /INCREMENTAL /ILK:"cmTC_627c2.dir\\Debug\\cmTC_627c2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-p2rgab/Debug/cmTC_627c2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-p2rgab/Debug/cmTC_627c2.lib" /MACHINE:X64  /machine:x64 cmTC_627c2.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_627c2.vcxproj -> C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p2rgab\\Debug\\cmTC_627c2.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_45cd3.dir\\Debug\\cmTC_45cd3.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_45cd3.dir\\Debug\\cmTC_45cd3.tlog\\cmTC_45cd3.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nesf0\\cmTC_45cd3.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_627c2.dir\\Debug\\cmTC_627c2.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_627c2.dir\\Debug\\cmTC_627c2.tlog\\cmTC_627c2.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p2rgab\\cmTC_627c2.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.70
+        宸茬敤鏃堕棿 00:00:00.77
         
       exitCode: 0
   -
@@ -1073,8 +1213,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-n3f4mo"
-      binary: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-n3f4mo"
+      source: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-aznel5"
+      binary: "C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-aznel5"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1085,39 +1225,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-n3f4mo'
+        Change Dir: 'C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-aznel5'
         
-        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9036b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9188a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.3.0-release-26070-10+3972042b7
-        鐢熸垚鍚姩鏃堕棿涓?2026/3/27 20:22:33銆?
+        鐢熸垚鍚姩鏃堕棿涓?2026/4/1 23:52:21銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n3f4mo\\cmTC_9036b.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aznel5\\cmTC_9188a.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n3f4mo\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_9036b.dir\\Debug\\cmTC_9036b.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aznel5\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_9188a.dir\\Debug\\cmTC_9188a.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_9036b.dir\\Debug\\cmTC_9036b.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_9036b.dir\\Debug\\cmTC_9036b.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_9188a.dir\\Debug\\cmTC_9188a.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_9188a.dir\\Debug\\cmTC_9188a.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_9036b.dir\\Debug\\\\" /Fd"cmTC_9036b.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_9188a.dir\\Debug\\\\" /Fd"cmTC_9188a.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.50.35725 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_9036b.dir\\Debug\\\\" /Fd"cmTC_9036b.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_9188a.dir\\Debug\\\\" /Fd"cmTC_9188a.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n3f4mo\\Debug\\cmTC_9036b.exe" /INCREMENTAL /ILK:"cmTC_9036b.dir\\Debug\\cmTC_9036b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-n3f4mo/Debug/cmTC_9036b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-n3f4mo/Debug/cmTC_9036b.lib" /MACHINE:X64  /machine:x64 cmTC_9036b.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_9036b.vcxproj -> C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n3f4mo\\Debug\\cmTC_9036b.exe
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aznel5\\Debug\\cmTC_9188a.exe" /INCREMENTAL /ILK:"cmTC_9188a.dir\\Debug\\cmTC_9188a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-aznel5/Debug/cmTC_9188a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/HP/Desktop/program/VSCODE/speeches/build/CMakeFiles/CMakeScratch/TryCompile-aznel5/Debug/cmTC_9188a.lib" /MACHINE:X64  /machine:x64 cmTC_9188a.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_9188a.vcxproj -> C:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aznel5\\Debug\\cmTC_9188a.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_9036b.dir\\Debug\\cmTC_9036b.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_9036b.dir\\Debug\\cmTC_9036b.tlog\\cmTC_9036b.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n3f4mo\\cmTC_9036b.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_9188a.dir\\Debug\\cmTC_9188a.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_9188a.dir\\Debug\\cmTC_9188a.tlog\\cmTC_9188a.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\HP\\Desktop\\program\\VSCODE\\speeches\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aznel5\\cmTC_9188a.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.71
+        宸茬敤鏃堕棿 00:00:00.72
         
       exitCode: 0
   -
