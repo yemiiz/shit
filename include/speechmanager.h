@@ -15,7 +15,7 @@ public:
     std::map<int, speaker> m_speaker;
     //初始化数据
     int m_index;
-    
+
     void init_speech(); 
     // 构造函数
     speechmanager();
@@ -24,8 +24,14 @@ public:
     void exit_system();
     //创建选手
     void create_speaker();
+
+
+    //比赛
     void start_speech();
+    //抽签
     void speech_draw();
+    //比赛
+    void speech_contest();
     // 析构函数
     ~speechmanager();
 };
