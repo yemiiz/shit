@@ -105,11 +105,11 @@ void speechmanager::start_speech()
     // 2.比赛
     speech_contest(); // this->speech_contest() 也可以，this可以省略，因为没有同名成员变量，编译器不会混淆
     // 3.显示前三名结果
-    this->show_score();
+    this->show_victor();
     // 三.保存分数到文件中
     this->save_score();
 
-    cout << "本届比赛结束！" << endl;
+    cout << "本届比赛结束！" << endl;  
     system("pause");
     system("cls"); // 清屏，准备下一轮比赛
 }
@@ -163,7 +163,7 @@ void speechmanager::speech_contest()
             }
 
             // 根据平均分从大到小排序，选出前3名晋级
-            for (multimap<double, int, greater<int>>::iterator it = groupscore.begin(); it != groupscore.end(); it++)
+            for (multimap<double, int, greater<double>>::iterator it = groupscore.begin(); it != groupscore.end(); it++)    
             {
                 if (this->m_index == 1)
                 {
@@ -210,7 +210,15 @@ void speechmanager::show_score()
     system("cls"); // 清屏，准备下一轮比赛
     // this->show_menu();    不需要在这里调用菜单，因为在main函数中已经调用了菜单，这里只需要清屏就可以了，准备下一轮比赛
 };
-
+void speechmanager::show_victor() {
+    cout << "------------本届比赛前三名如下：------------" << endl;
+    for (vector<int>::iterator it = win_speaker.begin(); it != win_speaker.end(); it++)
+    {
+        cout << "选手编号： " << *it << " 选手姓名： " << this->m_speaker[*it].m_name << " 平均分： " << this->m_speaker[*it].m_score[1] << endl;
+    }
+    cout << "---------------------------------------------" << endl;
+    system("pause");
+};
 void speechmanager::save_score() {
     ofstream ofs;
     ofs.open("speech.csv", ios::out | ios::app);    //用追加方式写文件

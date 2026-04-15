@@ -41,6 +41,7 @@ public:
     void speech_contest();
     //展示成绩
     void show_score();
+    void show_victor();
     //保存成绩
     void save_score();
     // 析构函数
