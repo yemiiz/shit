@@ -36,6 +36,7 @@ void speechmanager::init_speech()
     this->final_speaker.clear();
     this->win_speaker.clear();
     this->m_speaker.clear();
+    this->m_record.clear();
 
     this->m_index = 1;
 };
@@ -95,6 +96,9 @@ void speechmanager::speech_draw()
 
 void speechmanager::start_speech()
 {
+    this->init_speech();    //！！！！！！！！！
+
+    this->create_speaker();//！！！！！！！！！
     // 第一轮
     this->m_index = 1;  
     // 1.抽签
@@ -155,7 +159,7 @@ void speechmanager::speech_contest()
         d.pop_back();                                // 删除最低分
 
         double sum = accumulate(d.begin(), d.end(), 0.0);      // 求和   最好是0.0 而不是0，因为如果是0的话，结果会被当成整数，最终结果会被截断成整数，导致精度丢失。
-        double avg = sum / (d.size() * 1.0);                   // 求平均分
+        double avg = sum / d.size();                   // 求平均分
         this->m_speaker[*it].m_score[this->m_index - 1] = avg; // 将平均分存储到选手的score数组中
 
         groupscore.insert(make_pair(avg, *it)); // 将平均分和选手编号存储到multimap中，自动排序
