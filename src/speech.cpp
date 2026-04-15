@@ -105,6 +105,12 @@ void speechmanager::start_speech()
     speech_contest(); // this->speech_contest() 也可以，this可以省略，因为没有同名成员变量，编译器不会混淆
     // 3.显示前三名结果
     this->show_score();
+    // 三.保存分数到文件中
+    this->save_score();
+
+    cout << "本届比赛结束！" << endl;
+    system("pause");
+    system("cls"); // 清屏，准备下一轮比赛
 }
 
 void speechmanager::speech_contest()
@@ -206,5 +212,12 @@ void speechmanager::show_score()
 
 void speechmanager::save_score() {
     ofstream ofs;
+    ofs.open("speech.csv", ios::out | ios::app);    //用追加方式写文件
 
+    for (vector<int>::iterator it = win_speaker.begin(); it != win_speaker.end();it++)
+    {
+        ofs << *it << "," << this->m_speaker[*it].m_score[1] << ",";
+    }
+    ofs <<endl;
+    ofs.close();
 };
