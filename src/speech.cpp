@@ -265,7 +265,7 @@ void speechmanager::load_record() {
     while(ifs >> data)
     {
         vector<string> v;
-
+        int round = 1;
         int pos = -1;
         int start = 0;
 
@@ -281,7 +281,8 @@ void speechmanager::load_record() {
 
             start = pos + 1;
         }
-        this->m_record.insert(make_pair(m_index, v));
+        this->m_record.insert(make_pair(round, v));
+        round++; // 新增：每读取一行，轮次加一
     }
     ifs.close();
 };
