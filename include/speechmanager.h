@@ -9,6 +9,8 @@
 #include <string>
 #include <fstream>
 #include "speaker.h"
+using namespace std;
+
 // 设置演讲管理类
 class speechmanager
 {
@@ -50,7 +52,7 @@ public:
     //判断文件是否为空
     bool fileisempty;
 
-    map<int,vector<string>> m_record; // 记录往届比赛的成绩
+    map<int,std::vector<string>> m_record;// 记录往届比赛的成绩
     // 析构函数
     ~speechmanager();
 };

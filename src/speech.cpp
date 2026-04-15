@@ -2,6 +2,8 @@
 using namespace std;
 speechmanager::speechmanager() // 不能加分号
 {
+    // 新增：初始化随机数种子（基于系统时间）
+    srand((unsigned int)time(NULL));
     this->init_speech();
     this->create_speaker();
 }
